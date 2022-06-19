@@ -5,7 +5,7 @@
 > This is a DAO, a decentralised autonomous organisation, essentially a more collective and more effective version of a company.
 > A web3 DAO enables self regulated self governance, this is very important for our civilisation, 
 > and it enables collective decision making, collective agreement for the overall DAO, 
-> instead of how a company works, which is a top-down simply messy structure where the main decisions for the group are centralised, 
+> instead of how a company works, which is a top-down, simply messy structure, where the main decisions for the group are centralised, 
 > essentially a pyramid scheme for task orientation and time allocation of the persons involved. A DAO however, 
 > enables self regulation from the inside out, where collective agreement shapes the DAO, and everyone can vote on every decision made!
 
